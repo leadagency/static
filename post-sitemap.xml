@@ -1,0 +1,3508 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2021-12-07T02:20:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/a-comprehensive-guide-to-b2b-remarketing/</loc>
+		<lastmod>2019-10-16T01:06:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/B2B-Remarketing.jpg</image:loc>
+			<image:title><![CDATA[B2B-Remarketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/internal-linking-how-to/</loc>
+		<lastmod>2019-10-16T01:06:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Internal-Linking.png</image:loc>
+			<image:title><![CDATA[Internal Linking]]></image:title>
+			<image:caption><![CDATA[Internal Linking]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Step1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Hyperlink.png</image:loc>
+			<image:caption><![CDATA[Hyperlink]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/URL.png</image:loc>
+			<image:caption><![CDATA[URL]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Unlink.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Editing-URL.png</image:loc>
+			<image:caption><![CDATA[Edit URL]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Anchor-Text.png</image:loc>
+			<image:caption><![CDATA[Anchor Text]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Think-before-you-link.png</image:loc>
+			<image:caption><![CDATA[Think before you link]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/keyword-research-how-to/</loc>
+		<lastmod>2019-10-16T01:06:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/keywor-research-how-to.png</image:loc>
+			<image:title><![CDATA[keywor research how to]]></image:title>
+			<image:caption><![CDATA[Keyword Research]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Keyword-Magic.png</image:loc>
+			<image:caption><![CDATA[Keyword Magic tool]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Answer-the-Public-flight-centres.png</image:loc>
+			<image:caption><![CDATA[Answer the Public Example]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/GoogleAds.png</image:loc>
+			<image:caption><![CDATA[Google Ads]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Google-search-pun.png</image:loc>
+			<image:caption><![CDATA[Google Search Pun]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/GoogleAds-Keywords.png</image:loc>
+			<image:caption><![CDATA[GoogleAds Keywords]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-write-unrivalled-value-propositions/</loc>
+		<lastmod>2019-10-16T01:06:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Value-Proposition.jpg</image:loc>
+			<image:title><![CDATA[Value-Proposition]]></image:title>
+			<image:caption><![CDATA[Value Propositions - How to write them]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-email-marketing-best-practices-for-2019/</loc>
+		<lastmod>2019-10-16T01:06:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Email-Marketing-2019.png</image:loc>
+			<image:title><![CDATA[Email Marketing 2019]]></image:title>
+			<image:caption><![CDATA[Email Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/steps-to-success-with-your-b2b-paid-search-campaigns/</loc>
+		<lastmod>2019-10-16T01:06:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Paid.jpg</image:loc>
+			<image:title><![CDATA[Paid]]></image:title>
+			<image:caption><![CDATA[Paid]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-b-testing-mistakes-youre-probably-making/</loc>
+		<lastmod>2019-10-16T01:06:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/ab-testing-mistakes.png</image:loc>
+			<image:title><![CDATA[ab testing mistakes]]></image:title>
+			<image:caption><![CDATA[Ab testing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-ways-to-market-your-tech-company/</loc>
+		<lastmod>2019-10-16T01:06:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Tech-Company.png</image:loc>
+			<image:title><![CDATA[Tech Company]]></image:title>
+			<image:caption><![CDATA[Ways to market your tech company]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/using-bing-as-an-alternative-sem-tool/</loc>
+		<lastmod>2019-10-16T01:06:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Bing.png</image:loc>
+			<image:title><![CDATA[Bing]]></image:title>
+			<image:caption><![CDATA[Bing as alternative SEM tool]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/measuring-your-mobile-marketing-success/</loc>
+		<lastmod>2019-10-16T01:06:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Mobile-Marketing-1.jpg</image:loc>
+			<image:title><![CDATA[Mobile-Marketing (1)]]></image:title>
+			<image:caption><![CDATA[Mobile Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-you-are-not-on-the-first-page-of-google/</loc>
+		<lastmod>2019-10-16T01:06:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/CONFUSED.png</image:loc>
+			<image:title><![CDATA[Confused]]></image:title>
+			<image:caption><![CDATA[why you are not on the first page of Google]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-create-a-lead-magnet-that-converts/</loc>
+		<lastmod>2019-10-16T01:06:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Lead-Magnet.png</image:loc>
+			<image:title><![CDATA[Lead-Magnet]]></image:title>
+			<image:caption><![CDATA[Lead Magnet]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-b2b-social-media-best-practices/</loc>
+		<lastmod>2019-10-16T01:06:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Influencer.jpg</image:loc>
+			<image:title><![CDATA[Influencer]]></image:title>
+			<image:caption><![CDATA[power of influencer marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/is-your-seo-strategy-ready-for-voice-search/</loc>
+		<lastmod>2019-10-16T01:06:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Voice-Search.png</image:loc>
+			<image:title><![CDATA[Voice-Search]]></image:title>
+			<image:caption><![CDATA[Voice Search]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-ways-to-optimize-your-b2b-google-ads-campaign/</loc>
+		<lastmod>2019-10-16T01:06:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Banner.png</image:loc>
+			<image:title><![CDATA[Banner]]></image:title>
+			<image:caption><![CDATA[Google ads - banner]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Screen-Shot-1.png</image:loc>
+			<image:caption><![CDATA[Google Ads]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Screenshot-2.png</image:loc>
+			<image:caption><![CDATA[Keywords]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/sitelink-ext.png</image:loc>
+			<image:caption><![CDATA[Sitelink extensions ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Call-out.png</image:loc>
+			<image:caption><![CDATA[Call link extensions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Location-Ext.png</image:loc>
+			<image:caption><![CDATA[Location Extensions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/02/Structured-ext-copy.png</image:loc>
+			<image:caption><![CDATA[Structured Extensions]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/podcasting-a-guide-for-b2b-businesses/</loc>
+		<lastmod>2019-10-16T01:06:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/Podcasting.png</image:loc>
+			<image:title><![CDATA[Podcasting]]></image:title>
+			<image:caption><![CDATA[Podcasting]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/six-steps-account-based-marketing/</loc>
+		<lastmod>2019-10-16T01:06:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/image1.jpg</image:loc>
+			<image:title><![CDATA[Account Based Marketing]]></image:title>
+			<image:caption><![CDATA[Account Based Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/email.png</image:loc>
+			<image:caption><![CDATA[Find Your Account]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/email.png</image:loc>
+			<image:caption><![CDATA[Relevant Content ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ethical-marketing-your-b2b-business/</loc>
+		<lastmod>2019-10-16T01:06:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/Ethics.jpg</image:loc>
+			<image:title><![CDATA[Ethics]]></image:title>
+			<image:caption><![CDATA[Ethics]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/8-things-your-b2b-website-needs/</loc>
+		<lastmod>2019-10-16T01:06:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/social-media-analytics-thumbnail.gif</image:loc>
+			<image:title><![CDATA[Website]]></image:title>
+			<image:caption><![CDATA[Website]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-myth-of-going-viral/</loc>
+		<lastmod>2019-10-16T01:06:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/ALS-Viral-Marketing.jpg</image:loc>
+			<image:title><![CDATA[The Myth of Going Viral]]></image:title>
+			<image:caption><![CDATA[The Myth of Going Viral]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/art-influencer-marketing-b2b/</loc>
+		<lastmod>2019-10-16T01:06:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Influencer001-1.jpg</image:loc>
+			<image:title><![CDATA[Influencer001]]></image:title>
+			<image:caption><![CDATA[Influencer001]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Influencer002.jpg</image:loc>
+			<image:caption><![CDATA[B2B Influencer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Influencer003.jpg</image:loc>
+			<image:caption><![CDATA[Benefits of B2B Influencer Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Influencer004.jpg</image:loc>
+			<image:caption><![CDATA[B2B Influencer Marketing in 5 Steps]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Influencer005.jpg</image:loc>
+			<image:caption><![CDATA[B2B Influencer Marketing Best Practice]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-companies-fail-social-media-guide-perplexed/</loc>
+		<lastmod>2019-10-16T01:06:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Untitled.png</image:loc>
+			<image:title><![CDATA[Why B2B Companies Fail At Social Media]]></image:title>
+			<image:caption><![CDATA[Why B2B Companies Fail At Social Media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/1.png</image:loc>
+			<image:caption><![CDATA[Target Audience using Social Media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/social-media.jpg</image:loc>
+			<image:caption><![CDATA[Social Media Channels]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/definitive-guide-machine-learning-marketers-2017/</loc>
+		<lastmod>2019-10-16T01:06:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/machine-learning-header.png</image:loc>
+			<image:title><![CDATA[machine learning for marketing]]></image:title>
+			<image:caption><![CDATA[machine learning for marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/AAEAAQAAAAAAAAdaAAAAJGE5MDNkOTQ1LTgxODktNDNlNC05NmRlLWViNzQzYWU2YTliOA-2.png</image:loc>
+			<image:caption><![CDATA[machine learning]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/timeline-a@2X-446x264-1.png</image:loc>
+			<image:caption><![CDATA[Improving customer service]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/wordsmith-product-description-1.png</image:loc>
+			<image:caption><![CDATA[Wordsmith Financial]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/E-consultancy-sales_summary-1.png</image:loc>
+			<image:caption><![CDATA[Wordsmith Financial]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-digital-marketing-mountain/</loc>
+		<lastmod>2019-10-16T01:06:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/Digital-MarketingMountain-Header.png</image:loc>
+			<image:title><![CDATA[B2B Digital Marketing Mountain]]></image:title>
+			<image:caption><![CDATA[B2B Digital Marketing Mountain]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-buyer-sales-funnel.png</image:loc>
+			<image:caption><![CDATA[B2B buyer sales funnel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/Digital-Marketing-Mountain.png</image:loc>
+			<image:caption><![CDATA[Digital Marketing Mountain]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-social-media-strategies-best-practices/</loc>
+		<lastmod>2019-10-16T01:06:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/B2B-Social-Media-Best-Practice-The-Lead-Agency.jpg</image:loc>
+			<image:title><![CDATA[B2B-Social-Media-Best-Practice-The-Lead-Agency]]></image:title>
+			<image:caption><![CDATA[B2B-Social-Media-Best-Practice-The-Lead-Agency]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-staff.png</image:loc>
+			<image:caption><![CDATA[employees]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-research.png</image:loc>
+			<image:caption><![CDATA[research competition]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-customers.png</image:loc>
+			<image:caption><![CDATA[Find out more about customers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-content.jpg</image:loc>
+			<image:caption><![CDATA[Invest in your B2B social media content]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-cta.jpg</image:loc>
+			<image:caption><![CDATA[Optimise your Call to Actions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/08/b2b-groups.jpg</image:loc>
+			<image:caption><![CDATA[Join a group or start one]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/beginners-guide-cro-b2b-businesses/</loc>
+		<lastmod>2019-10-16T01:06:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/11/Lead-Agency-CRO-Article-IMG-1.jpg</image:loc>
+			<image:title><![CDATA[Lead Agency CRO Article IMG 1]]></image:title>
+			<image:caption><![CDATA[Lead Agency CRO Article IMG 1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/call-to-action.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-media-marketing-b2b-business/</loc>
+		<lastmod>2019-10-16T01:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/Social-Media-for-B2B.jpg</image:loc>
+			<image:title><![CDATA[Social-Media-for-B2B]]></image:title>
+			<image:caption><![CDATA[Social Media for B2B]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/social-media.jpg</image:loc>
+			<image:caption><![CDATA[Social Media Channels]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/pay-per-click-advertising-vs-organic-seo/</loc>
+		<lastmod>2019-10-16T01:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/Organic-Vs-PPC.jpg</image:loc>
+			<image:title><![CDATA[Organic-Vs-PPC]]></image:title>
+			<image:caption><![CDATA[Organic-Vs-PPC]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/time.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-inbound-marketing-myths-infographic/</loc>
+		<lastmod>2019-10-16T01:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/Inbound-Marketing-Myths-Header-1.jpg</image:loc>
+			<image:title><![CDATA[Inbound-Marketing-Myths-Header]]></image:title>
+			<image:caption><![CDATA[Inbound Marketing Myths Header]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/Inbound-Marketing-Myths-Preview.jpg</image:loc>
+			<image:caption><![CDATA[Inbound Marketing Myths Infographic]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/7_Inbound_Marketing_Myths.jpg</image:loc>
+			<image:caption><![CDATA[Inbound Marketing Myths Infographic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/changing-face-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/shutterstock_254765905.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing agency]]></image:title>
+			<image:caption><![CDATA[The Changing Face of B2B Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/of-Millenial-Decision-Makers.jpg</image:loc>
+			<image:caption><![CDATA[millenial decision influencers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/of-Millenial-Decision-Makers-2.jpg</image:loc>
+			<image:caption><![CDATA[millenial decison makers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/b2b-search-queries-engagement-2.jpg</image:loc>
+			<image:caption><![CDATA[branded search]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/b2b-growth-smartphone-path-to-purchase-3.jpg</image:loc>
+			<image:caption><![CDATA[smartphone b2b marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/03/Screen-Shot-2017-03-25-at-10.45.59-am.png</image:loc>
+			<image:caption><![CDATA[smartphone by industry]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-signs-invest-email-marketing/</loc>
+		<lastmod>2019-10-16T01:06:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/Email-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Email-Marketing]]></image:title>
+			<image:caption><![CDATA[Email Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/notenoughsales.jpg</image:loc>
+			<image:caption><![CDATA[Comunication]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/warm-cold-email-list/</loc>
+		<lastmod>2019-10-16T01:06:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/Warm-UP.jpg</image:loc>
+			<image:title><![CDATA[Warm-UP]]></image:title>
+			<image:caption><![CDATA[Warm up]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-inbound-marketing-myths/</loc>
+		<lastmod>2019-10-16T01:08:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/02/26.02.16-7-Inbound-Marketing-Myths.jpg</image:loc>
+			<image:title><![CDATA[26.02.16-7-Inbound-Marketing-Myths]]></image:title>
+			<image:caption><![CDATA[Inbound Marketing Myths]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/time.jpg</image:loc>
+			<image:caption><![CDATA[ROI]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/6-ways-to-optimise-your-adwords-campaign/</loc>
+		<lastmod>2019-10-16T01:08:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/Adwords-Header.jpg</image:loc>
+			<image:title><![CDATA[Adwords-Header]]></image:title>
+			<image:caption><![CDATA[Adwords]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/Hentys.jpg</image:loc>
+			<image:caption><![CDATA[Hentys]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/PSCdirect.jpg</image:loc>
+			<image:caption><![CDATA[PSC direct]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/03/Final-Timings.jpg</image:loc>
+			<image:caption><![CDATA[Final-Timings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-dark-social-and-what-does-it-mean-for-marketers/</loc>
+		<lastmod>2019-10-16T01:08:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/11/Dark-social.jpg</image:loc>
+			<image:title><![CDATA[Dark-social]]></image:title>
+			<image:caption><![CDATA[Dark Social]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-importance-of-video-marketing-b2b/</loc>
+		<lastmod>2019-10-16T01:08:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/11/Video-Marketing.png</image:loc>
+			<image:title><![CDATA[Video-Marketing]]></image:title>
+			<image:caption><![CDATA[Video Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-humour-is-an-effective-marketing-tool/</loc>
+		<lastmod>2019-10-16T01:08:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/12/Humour-in-Marketing.png</image:loc>
+			<image:title><![CDATA[Humour-in-Marketing]]></image:title>
+			<image:caption><![CDATA[Humour in Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-automation-the-future-of-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:08:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/12/ma-future.jpg</image:loc>
+			<image:title><![CDATA[marketing automation experts melbourne]]></image:title>
+			<image:caption><![CDATA[marketing automation experts melbourne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-seo/</loc>
+		<lastmod>2019-10-16T01:08:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/01/What-is-SEO.jpg</image:loc>
+			<image:title><![CDATA[What-is-SEO]]></image:title>
+			<image:caption><![CDATA[SEO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/seo.jpg</image:loc>
+			<image:caption><![CDATA[SEO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/01/chitika.png</image:loc>
+			<image:caption><![CDATA[chitika]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-write-a-valuable-b2b-value-proposition/</loc>
+		<lastmod>2019-10-16T01:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/value-proposition.jpg</image:loc>
+			<image:title><![CDATA[write a great value proposition]]></image:title>
+			<image:caption><![CDATA[write a great value proposition]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/dont-be-afraid-to-make-mistakes-in-marketing/</loc>
+		<lastmod>2019-10-16T01:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Afraid-Marketing-Mistakes-1.png</image:loc>
+			<image:title><![CDATA[Afraid-Marketing-Mistakes-1]]></image:title>
+			<image:caption><![CDATA[Afraid Marketing Mistakes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-email-marketing-tips-to-increase-your-open-rate/</loc>
+		<lastmod>2019-10-16T01:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/11/Open-Rates-1.jpg</image:loc>
+			<image:title><![CDATA[Open-Rates-1]]></image:title>
+			<image:caption><![CDATA[Email Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/11/Best-words-to-use-in-email-titles.png</image:loc>
+			<image:caption><![CDATA[Email Subject Line Best Words]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/11/Email-Marketing-Industry-Standards.png</image:loc>
+			<image:caption><![CDATA[Email Marketing Tips Industry Standards]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-automation-your-business/</loc>
+		<lastmod>2019-10-16T01:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Marketing-Automation-Header.png</image:loc>
+			<image:title><![CDATA[Marketing-Automation-Header]]></image:title>
+			<image:caption><![CDATA[Marketing-Automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/content-marketing-trick-or-treat/</loc>
+		<lastmod>2019-10-16T01:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Content-Marketing-Trick-or-Treat.png</image:loc>
+			<image:title><![CDATA[Content-Marketing-Trick-or-Treat]]></image:title>
+			<image:caption><![CDATA[Content marketing trick or treat]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/as-mobile-marketing-takes-over-is-your-website-ready/</loc>
+		<lastmod>2019-10-16T01:08:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Mobile-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Mobile-Marketing]]></image:title>
+			<image:caption><![CDATA[Mobile Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Screen-Shot-2015-10-08-at-4.33.39-pm.png</image:loc>
+			<image:caption><![CDATA[Lead Agency]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Mobile-2.jpg</image:loc>
+			<image:caption><![CDATA[Lead Agency Mobile ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/responsive-web-design-vs-mobile-specific-web-design/</loc>
+		<lastmod>2019-10-16T01:08:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Web-Design.jpg</image:loc>
+			<image:title><![CDATA[Web-Design]]></image:title>
+			<image:caption><![CDATA[Web Design]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Desktop-Mashable.jpg</image:loc>
+			<image:caption><![CDATA[Desktop Mashable]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Mobile-Mashable-Site.png</image:loc>
+			<image:caption><![CDATA[Mobile Mashable Site]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/11/screenshot-sml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Mobile-Age-Site.png</image:loc>
+			<image:caption><![CDATA[Mobile Age Site]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-lead-nurturing-is-crucial-to-your-business-marketing/</loc>
+		<lastmod>2019-10-16T01:08:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/nurture-hugs.jpg</image:loc>
+			<image:title><![CDATA[business marketing lead nurturing]]></image:title>
+			<image:caption><![CDATA[business marketing lead nurturing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/B2B-SALES-FUNNEL.png</image:loc>
+			<image:caption><![CDATA[B2B SALES FUNNEL]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/geico-happier-than-a-camel-on-wednesday/</loc>
+		<lastmod>2019-10-16T01:08:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/Sept-newsletter-comedy-ad.png</image:loc>
+			<image:title><![CDATA[Sept-newsletter-comedy-ad]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-b2b-marketing-strategies-that-cost-nothing/</loc>
+		<lastmod>2019-10-16T01:08:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/costs-nothing.jpg</image:loc>
+			<image:title><![CDATA[5 B2B Marketing Strategies that Cost Nothing]]></image:title>
+			<image:caption><![CDATA[5 B2B Marketing Strategies that Cost Nothing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/Wrte-A-Blog.png</image:loc>
+			<image:caption><![CDATA[Write A Blog]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-key-elements-of-the-b2b-marketing-mix/</loc>
+		<lastmod>2019-10-16T01:08:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/7Ps-RESIZED.png</image:loc>
+			<image:title><![CDATA[7Ps-RESIZED]]></image:title>
+			<image:caption><![CDATA[B2B Marketing Mix - 7 Ps]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/1A.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/1B.jpg</image:loc>
+			<image:caption><![CDATA[Promotion]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/1C.jpg</image:loc>
+			<image:caption><![CDATA[Evidence]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/event-marketing-for-b2b-brands/</loc>
+		<lastmod>2019-10-16T01:08:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/Event-Mktg-1.jpg</image:loc>
+			<image:title><![CDATA[Event-Mktg-1]]></image:title>
+			<image:caption><![CDATA[Event Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/whats-the-best-for-b2b-marketing-cold-calling-prospecting-or-telemarketing/</loc>
+		<lastmod>2019-10-16T01:08:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/telemarketing.jpg</image:loc>
+			<image:title><![CDATA[b2b telemarketing]]></image:title>
+			<image:caption><![CDATA[b2b telemarketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/7A.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/business-networking-etiquette-101/</loc>
+		<lastmod>2019-10-16T01:08:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/Banner.png</image:loc>
+			<image:title><![CDATA[Banner]]></image:title>
+			<image:caption><![CDATA[Business Networking Etiquette 101]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/09/FINAL-Infographic-Business-Networking-Etiquette-101.png</image:loc>
+			<image:caption><![CDATA[Business Networking Etiquette]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-value-of-your-existing-customers-preaching-to-the-converted/</loc>
+		<lastmod>2019-10-16T01:08:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/LoyalCustomer.png</image:loc>
+			<image:title><![CDATA[LoyalCustomer]]></image:title>
+			<image:caption><![CDATA[Loyal Customer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/most-effective-b2b-lead-generation-tactic-small-business/</loc>
+		<lastmod>2019-10-16T01:08:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/B2BLeadGenRESIZED.png</image:loc>
+			<image:title><![CDATA[B2BLeadGenRESIZED]]></image:title>
+			<image:caption><![CDATA[B2B Lead Generation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/B2BLGchallenge.png</image:loc>
+			<image:caption><![CDATA[B2B Lead Generation Challenges]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/B2BLGmethods.png</image:loc>
+			<image:caption><![CDATA[B2B Lead Generation Methods]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/B2BLGcategories.png</image:loc>
+			<image:caption><![CDATA[B2B Lead Generation Categories]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/mail-vs-email.jpg</image:loc>
+			<image:caption><![CDATA[Email vs Mail]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Postit.png</image:loc>
+			<image:caption><![CDATA[Personalised Message Post-it Note]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-single-most-effective-content-marketing-strategy-for-b2b/</loc>
+		<lastmod>2019-10-16T01:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Know-Your-Customer.png</image:loc>
+			<image:title><![CDATA[Know-Your-Customer]]></image:title>
+			<image:caption><![CDATA[Know Your Customer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/b2b-segment-approachLARGE.png</image:loc>
+			<image:caption><![CDATA[b2b-segment-approachLARGE]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-direct-marketing-best-practices/</loc>
+		<lastmod>2019-10-16T01:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Header.png</image:loc>
+			<image:title><![CDATA[Header]]></image:title>
+			<image:caption><![CDATA[Direct Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Direct-Marketing.png</image:loc>
+			<image:caption><![CDATA[Direct Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/8A.jpg</image:loc>
+			<image:caption><![CDATA[stand out ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/our-philosophy-of-marketing/</loc>
+		<lastmod>2019-10-16T01:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/Comedy1.jpg</image:loc>
+			<image:title><![CDATA[Comedy1]]></image:title>
+			<image:caption><![CDATA[Comedy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-social-media-marketing/</loc>
+		<lastmod>2019-10-16T01:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/What-is-social-media-marketing.png</image:loc>
+			<image:title><![CDATA[What-is-social-media-marketing]]></image:title>
+			<image:caption><![CDATA[Social Media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-11.45.14-am.png</image:loc>
+			<image:caption><![CDATA[Commonly used Social Media platforms]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/business-branding-importance/</loc>
+		<lastmod>2019-10-16T01:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Branding.png</image:loc>
+			<image:title><![CDATA[Business Branding]]></image:title>
+			<image:caption><![CDATA[Business Branding]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Coke-Open-Happiness.jpg</image:loc>
+			<image:caption><![CDATA[Coca-cola brand open happiness advertisement]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Pepsi.jpg</image:loc>
+			<image:caption><![CDATA[Pepsi Brand Advertisement]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Coke-Taylor-Swift.jpg</image:loc>
+			<image:caption><![CDATA[Coca-cola Brand Advocate Taylor Swift]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Pepsi-Beyonce2.jpg</image:loc>
+			<image:caption><![CDATA[Pepsi Brand Advocate Beyonce]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-social-media-can-positively-affect-seo/</loc>
+		<lastmod>2019-10-16T01:08:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/SEO-Social.png</image:loc>
+			<image:title><![CDATA[SEO-&amp;-Social]]></image:title>
+			<image:caption><![CDATA[SEO and Social Media]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/facebook-vs-linkedin-which-is-best-for-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:08:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Header-Facebook-Vs-LinkedIn1.png</image:loc>
+			<image:title><![CDATA[Header-Facebook-Vs-LinkedIn]]></image:title>
+			<image:caption><![CDATA[Facebook Vs LinkedIn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Facebook-Vs-LinkedIn-2.png</image:loc>
+			<image:caption><![CDATA[facebook vs linkedin for B2B Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/referral-marketing/</loc>
+		<lastmod>2019-10-16T01:08:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/LionelRichie1.png</image:loc>
+			<image:title><![CDATA[LionelRichie1]]></image:title>
+			<image:caption><![CDATA[Referral Maketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/book-mockup-0699.png</image:loc>
+			<image:caption><![CDATA[Customer Satisfaction Survey Template]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/small-businesses-seo/</loc>
+		<lastmod>2019-10-16T01:08:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/smallbusinessseotarget-1.png</image:loc>
+			<image:title><![CDATA[smallbusinessseotarget-1]]></image:title>
+			<image:caption><![CDATA[Small Business SEO]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/search-engine-optimisation-in-2015/</loc>
+		<lastmod>2019-10-16T01:08:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Search-Engine-Optimisation.png</image:loc>
+			<image:title><![CDATA[Search-Engine-Optimisation]]></image:title>
+			<image:caption><![CDATA[Search Engine Optimisation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-automation-strategies-for-successful-lead-conversion/</loc>
+		<lastmod>2019-10-16T01:08:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/marketing-automation-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[marketing-automation-RESIZED]]></image:title>
+			<image:caption><![CDATA[Marketing Automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/is-b2b-blogging-a-waste-of-time/</loc>
+		<lastmod>2019-10-16T01:08:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/B2B-Blogging.png</image:loc>
+			<image:title><![CDATA[B2B-Blogging]]></image:title>
+			<image:caption><![CDATA[B2B Blogging]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-easy-conversion-rate-optimisation-hack-you-should-be-using/</loc>
+		<lastmod>2019-10-16T01:08:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/SignUpButtonRESIZED1.jpg</image:loc>
+			<image:title><![CDATA[SignUpButtonRESIZED]]></image:title>
+			<image:caption><![CDATA[Conversion Rate Optimisation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/mailchimp-blur.png</image:loc>
+			<image:caption><![CDATA[Landing Page Example]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/analogous-vs-triadic-e1435126666916.png</image:loc>
+			<image:caption><![CDATA[Colour Wheel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/performable-conversion-example.png</image:loc>
+			<image:caption><![CDATA[Performable Landing Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-social-media-management-industry-benchmark/</loc>
+		<lastmod>2019-10-16T01:08:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/SocialMediaIconGridRESIZED.jpg</image:loc>
+			<image:title><![CDATA[SocialMediaIconGridRESIZED]]></image:title>
+			<image:caption><![CDATA[Social Media Management]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/small-business-marketing-a-beginners-guide/</loc>
+		<lastmod>2019-10-16T01:08:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Header.png</image:loc>
+			<image:title><![CDATA[Header]]></image:title>
+			<image:caption><![CDATA[Small Business Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/3-Steps-2.png</image:loc>
+			<image:caption><![CDATA[3-Steps-(2)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Step-1.png</image:loc>
+			<image:caption><![CDATA[Step-1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Market-Research1.png</image:loc>
+			<image:caption><![CDATA[Primary &amp; Secondary Marketing Research: Surveys, Interviews, Focus Groups, Observations, Published Statistics, Reports, Media, Trade Journals]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/know-your-customers.png</image:loc>
+			<image:caption><![CDATA[know-your-customers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Brand2.png</image:loc>
+			<image:caption><![CDATA[Brand(2)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Step-2.png</image:loc>
+			<image:caption><![CDATA[Step-2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/SEO.png</image:loc>
+			<image:caption><![CDATA[SEO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Spcial.png</image:loc>
+			<image:caption><![CDATA[Spcial]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Step-3.png</image:loc>
+			<image:caption><![CDATA[Small Business Marketing Evaluate Your Efforts]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Evaluate1.png</image:loc>
+			<image:caption><![CDATA[In order to be successful in small business marketing, you have to know what works and what doesn’t. Unfortunately the only way you can do this effectively is through trial and error. Apply your knowledge and research to decide your initial marketing strategy, but constantly monitor and refine it to ensure business growth. Marketing is measurable, and you should take advantage of the statistics, data and analytics at your disposal.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/CAC.png</image:loc>
+			<image:caption><![CDATA[This will tell you how well your marketing is performing from a financial point of view. This is your total sales and marketing costs, divided by the number of new customers you have attracted. This is the equation to work this out: Advertising Spend + Salaries + Commissions + Overhead / No. of New Customers If the margin between your customers average value and cost per acquisition is too low. You’ll need to re-revaluate your marketing spend, possibly focussing more time on the channel with higher margins.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Measurements.png</image:loc>
+			<image:caption><![CDATA[Opt-Ins This metric will help you measure how well you are capturing leads and is useful to incorporate how well your marketing initiatives are performing. Just because customers don’t convert straight away doesn’t mean that they won’t in the future so it’s definitely a worthwhile metric to consider. Customer Satisfaction Scoring customer satisfaction levels can help you determine how well your customers believe you are delivering on your promises and the expectations that you set during the marketing and sales process. This can inform what parts of your system need to be improved Lifetime Customer Value (LCV) Is a way to assign a dollar value to the long-term relationship you have with your customers. LCV can help you determine how well you’re repeat sales, cross selling and up-selling efforts are performing. Referrals Received The number of referrals you have received can be useful in measuring your referral marketing results. You should also consider measuring the number of referrals you have given, as this can be a leading indicator of the referrals you have or are likely to recieve.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketers-guide-google-twitter-partnership/</loc>
+		<lastmod>2019-10-16T01:08:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/google-twitter-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[google-twitter-RESIZED]]></image:title>
+			<image:caption><![CDATA[Google-Twitter Partnership]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-a-meta-description-and-why-should-i-care/</loc>
+		<lastmod>2019-10-16T01:08:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Main-Image.png</image:loc>
+			<image:title><![CDATA[Main-Image]]></image:title>
+			<image:caption><![CDATA[Google]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Meta-Description-1.png</image:loc>
+			<image:caption><![CDATA[Writing Meta Descriptions: Best Practice]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Meta-Description-2.png</image:loc>
+			<image:caption><![CDATA[Writing Meta Descriptions: Best Practice]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Meta-Description-3.png</image:loc>
+			<image:caption><![CDATA[Writing Meta Descriptions: Best Practice]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Meta-Description-4.png</image:loc>
+			<image:caption><![CDATA[Writing Meta Descriptions: Best Practice]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/wasted-social-media-for-lead-generation/</loc>
+		<lastmod>2019-10-16T01:08:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/social-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[social-RESIZED]]></image:title>
+			<image:caption><![CDATA[Social Media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/May_12.jpg</image:loc>
+			<image:caption><![CDATA[May_12]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-small-businesses-can-attract-more-customers-for-free/</loc>
+		<lastmod>2019-10-16T01:08:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Google-My-Business1.png</image:loc>
+			<image:title><![CDATA[Google-My-Business]]></image:title>
+			<image:caption><![CDATA[google my business]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Lead-Agency-GMB1.png</image:loc>
+			<image:caption><![CDATA[Lead-Agency-GMB]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Lead-Agency-Map.png</image:loc>
+			<image:caption><![CDATA[Lead-Agency-Map]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/GMB.png</image:loc>
+			<image:caption><![CDATA[GMB]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/GMB-Reviews.png</image:loc>
+			<image:caption><![CDATA[GMB-Reviews]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/inforgraphic-the-pros-cons-of-outsourcing-b2b-content-marketing/</loc>
+		<lastmod>2019-10-16T01:08:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/Outsourcing1.png</image:loc>
+			<image:title><![CDATA[Outsourcing]]></image:title>
+			<image:caption><![CDATA[Outsourcing Pros and Cons]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/21.05.15-Outsourcing-Content-Marketing.jpg</image:loc>
+			<image:caption><![CDATA[21.05.15 Outsourcing Content Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/is-b2b-telemarketing-still-relevant-in-2015/</loc>
+		<lastmod>2019-10-16T01:08:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/telemarketing2.jpg</image:loc>
+			<image:title><![CDATA[telemarketing2]]></image:title>
+			<image:caption><![CDATA[telemarketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-b2b-marketing-3-things-marketers-need-to-know/</loc>
+		<lastmod>2019-10-16T01:08:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/what-is-b2b-marketing.jpg</image:loc>
+			<image:title><![CDATA[what is b2b marketing]]></image:title>
+			<image:caption><![CDATA[what is b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/9-steps-small-business-seo/</loc>
+		<lastmod>2019-10-16T01:08:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/seooptimisationRESIZED.jpg</image:loc>
+			<image:title><![CDATA[seooptimisationRESIZED]]></image:title>
+			<image:caption><![CDATA[SEO Optimisation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/9-marketing-automation-statistics-your-ceo-should-know/</loc>
+		<lastmod>2019-10-16T01:08:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/9-Marketing-Automation-Stats-You-Should-Know.jpg</image:loc>
+			<image:title><![CDATA[9-Marketing-Automation-Stats-You-Should-Know]]></image:title>
+			<image:caption><![CDATA[Marketing Automation Stats You Should Know]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/9-Marketing-Automation-Stats-You-Should-Know.png</image:loc>
+			<image:caption><![CDATA[9 Marketing Automation Stats You Should Know]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/facebook-for-b2b-marketers-to-stay-or-go/</loc>
+		<lastmod>2019-10-16T01:08:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/leave-facebook-2.jpg</image:loc>
+			<image:title><![CDATA[leave-facebook-2]]></image:title>
+			<image:caption><![CDATA[Leave facebook]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-3-most-important-benefits-of-email-marketing/</loc>
+		<lastmod>2019-10-16T01:08:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/email-marketing.jpg</image:loc>
+			<image:title><![CDATA[email marketing]]></image:title>
+			<image:caption><![CDATA[email marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/dont-apply-b2c-social-media-marketing-to-your-b2b-company/</loc>
+		<lastmod>2019-10-16T01:08:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/SocialMedia.jpg</image:loc>
+			<image:title><![CDATA[SocialMedia]]></image:title>
+			<image:caption><![CDATA[Social media]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/69-kinds-of-b2b-marketing-lead-generation-campaigns/</loc>
+		<lastmod>2019-10-16T01:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/magnet.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-optimise-smarketing-communication/</loc>
+		<lastmod>2019-10-16T01:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/SmarketingComm-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[SmarketingComm-RESIZED]]></image:title>
+			<image:caption><![CDATA[Marketing Communications]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-ways-to-create-more-visually-appealing-content/</loc>
+		<lastmod>2019-10-16T01:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/Visual-Content.jpg</image:loc>
+			<image:title><![CDATA[Visual-Content]]></image:title>
+			<image:caption><![CDATA[Visual Content]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-importance-of-market-research-in-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/market-research-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[market-research-RESIZED]]></image:title>
+			<image:caption><![CDATA[market research resized]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/6B.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/6A.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/importance-linked-in-marketing-b2b/</loc>
+		<lastmod>2019-10-16T01:08:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/02.04.15.jpg</image:loc>
+			<image:title><![CDATA[02.04.15]]></image:title>
+			<image:caption><![CDATA[02.04.15]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/four-b2b-marketing-tips-that-always-succeed/</loc>
+		<lastmod>2019-10-16T01:08:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/wom.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-tools-a-b2b-marketer-cant-function-without/</loc>
+		<lastmod>2019-10-16T01:08:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/5-Tools-Blog-Image.-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[5-Tools-Blog-Image.-RESIZED]]></image:title>
+			<image:caption><![CDATA[Tools]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-mobile-marketing-catching-prospects-on-the-move/</loc>
+		<lastmod>2019-10-16T01:08:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/04/Mobile-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Mobile-Marketing]]></image:title>
+			<image:caption><![CDATA[Mobile Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/pros-cons-outsourcing-b2b-content-marketing/</loc>
+		<lastmod>2019-10-16T01:08:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/outsource.jpg</image:loc>
+			<image:title><![CDATA[outsource]]></image:title>
+			<image:caption><![CDATA[outsource]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-difference-between-email-marketing-marketing-automation/</loc>
+		<lastmod>2019-10-16T01:08:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/19.03.15.jpg</image:loc>
+			<image:title><![CDATA[19.03.15]]></image:title>
+			<image:caption><![CDATA[19.03.15]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/embrace-business-marketing-automation-now/</loc>
+		<lastmod>2019-10-16T01:08:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/auto.jpg</image:loc>
+			<image:title><![CDATA[business marketing]]></image:title>
+			<image:caption><![CDATA[business marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-common-mistakes-with-marketing-automation/</loc>
+		<lastmod>2019-10-16T01:08:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/26.03.15.jpg</image:loc>
+			<image:title><![CDATA[26.03.15]]></image:title>
+			<image:caption><![CDATA[help]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/five-b2b-marketing-ideas-2015/</loc>
+		<lastmod>2019-10-16T01:08:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/bulb.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-content-marketing-that-cuts-through-the-noise/</loc>
+		<lastmod>2019-10-16T01:08:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/contentmarketing.jpg</image:loc>
+			<image:title><![CDATA[content marketing]]></image:title>
+			<image:caption><![CDATA[content marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ideal-b2b-marketing-client/</loc>
+		<lastmod>2019-10-16T01:08:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/client.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing question mark]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-automation-breakdown-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:08:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/auto1.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing automation]]></image:title>
+			<image:caption><![CDATA[b2b marketing automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/shortening-the-b2b-marketing-sales-funnel/</loc>
+		<lastmod>2019-10-16T01:08:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/web-banner2.jpg</image:loc>
+			<image:title><![CDATA[web-banner2]]></image:title>
+			<image:caption><![CDATA[web banner leads]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/smarketing-getting-sales-marketing-on-the-same-team/</loc>
+		<lastmod>2019-10-16T01:08:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/web-banner.jpg</image:loc>
+			<image:title><![CDATA[web-banner]]></image:title>
+			<image:caption><![CDATA[web banner]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-automation-first-steps/</loc>
+		<lastmod>2019-10-16T01:08:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/auto.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing automation]]></image:title>
+			<image:caption><![CDATA[b2b marketing automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/number-one-strategy-b2b-marketing-keep-working-leads/</loc>
+		<lastmod>2019-10-16T01:08:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/leads.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/smarketing-getting-sales-marketing-on-the-same-team/</loc>
+		<lastmod>2019-10-16T01:08:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/02/web-banner.jpg</image:loc>
+			<image:title><![CDATA[web-banner]]></image:title>
+			<image:caption><![CDATA[web banner]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/three-tips-creating-b2b-marketing-explaining-video/</loc>
+		<lastmod>2019-10-16T01:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/explainer.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-must-post-sales-relationship/</loc>
+		<lastmod>2019-10-16T01:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/post-sales.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/enhanced-customer-experience-cross-selling-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/cross.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/12/4A.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/12/4B.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/12/4C.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/four-reasons-youre-b2b-marketing-leads-failing/</loc>
+		<lastmod>2019-10-16T01:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/leads.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-proven-b2b-marketing-methods-acquire-new-business/</loc>
+		<lastmod>2019-10-16T01:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/attract.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-debate-inbound-vs-outbound/</loc>
+		<lastmod>2019-10-16T01:08:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/10/invout1.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-content-types-will-seal-deals/</loc>
+		<lastmod>2019-10-16T01:08:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/10/content.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-guide-what-you-need-to-know/</loc>
+		<lastmod>2019-10-16T01:08:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/10/b2b.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-great-ways-recycle-b2b-marketing-leads/</loc>
+		<lastmod>2019-10-16T01:08:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/11/recycle.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/thank-emails-important-b2b-marketing-strategy/</loc>
+		<lastmod>2019-10-16T01:08:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/b2b4.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/3A.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/3C.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/3B.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/four-top-b2b-marketing-automation-tips/</loc>
+		<lastmod>2019-10-16T01:08:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/automate.jpg</image:loc>
+			<image:title><![CDATA[B2B marketing automation]]></image:title>
+			<image:caption><![CDATA[B2B marketing automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-can-create-a-customer-for-life/</loc>
+		<lastmod>2019-10-16T01:08:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/10/customer.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing customer]]></image:title>
+			<image:caption><![CDATA[b2b marketing customer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/combining-b2b-marketing-sales-departments/</loc>
+		<lastmod>2019-10-16T01:08:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/10/sales.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/five-tips-great-lead-generation-marketing-websites/</loc>
+		<lastmod>2019-10-16T01:08:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/web-2.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-b2b-marketing-cheat-sheet/</loc>
+		<lastmod>2019-10-16T01:08:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/b2b1.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-segmentation-will-change-fortune/</loc>
+		<lastmod>2019-10-16T01:08:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/09/b2b2.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing]]></image:title>
+			<image:caption><![CDATA[b2b marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/keyword-research-lead-generation-marketing/</loc>
+		<lastmod>2019-10-16T01:09:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/research.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/referral-lead-generation-marketing-best-practices/</loc>
+		<lastmod>2019-10-16T01:09:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/referral2.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/write-great-lead-generation-marketing-letter/</loc>
+		<lastmod>2019-10-16T01:09:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/letter.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/great-lead-generation-campaigns-scripts/</loc>
+		<lastmod>2019-10-16T01:09:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/scripts.jpg</image:loc>
+			<image:title><![CDATA[Lead Generation Campaigns]]></image:title>
+			<image:caption><![CDATA[Lead Generation Campaigns]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/2C.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/2A.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/2B.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-generation-campaigns-5-ways-improve-lead-generation-website/</loc>
+		<lastmod>2019-10-16T01:09:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/magnet.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/only-four-ways-to-grow-your-business-marketing-consultant/</loc>
+		<lastmod>2019-10-16T01:09:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/geometric.jpg</image:loc>
+			<image:title><![CDATA[marketing consultant strategy]]></image:title>
+			<image:caption><![CDATA[marketing consultant strategy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/quadrant.png</image:loc>
+			<image:caption><![CDATA[marketing consultant strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/referrals-work-lead-generation-campaigns/</loc>
+		<lastmod>2019-10-16T01:09:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/refferal.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-lead-generation-campaigns/</loc>
+		<lastmod>2019-10-16T01:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/lead-gen.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-consultant-melbourne-target-your-marketing-messages-to-your-audience/</loc>
+		<lastmod>2019-10-16T01:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/messages.jpg</image:loc>
+			<image:title><![CDATA[marketing consultant melbourne]]></image:title>
+			<image:caption><![CDATA[marketing consultant melbourne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-generation-campaigns-the-importance-of-call-to-actions/</loc>
+		<lastmod>2019-10-16T01:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/cta.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/determine-value-marketing/</loc>
+		<lastmod>2019-10-16T01:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/04/b2b-marketing-metrics.jpg</image:loc>
+			<image:title><![CDATA[b2b-marketing-metrics]]></image:title>
+			<image:caption><![CDATA[marketing consultants]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-nurturing-better-lead-generation-marketing/</loc>
+		<lastmod>2019-10-16T01:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/nurture.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-companies-melbourne-effective-value-proposition/</loc>
+		<lastmod>2019-10-16T01:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/04/value.jpg</image:loc>
+			<image:title><![CDATA[marketing companies melbourne]]></image:title>
+			<image:caption><![CDATA[marketing companies melbourne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-companies-melbourne-thinking-creatively-for-business/</loc>
+		<lastmod>2019-10-16T01:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/thinking.jpg</image:loc>
+			<image:title><![CDATA[marketing companies melbourne]]></image:title>
+			<image:caption><![CDATA[marketing companies melbourne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/five-new-lead-generation-marketing-examples/</loc>
+		<lastmod>2019-10-16T01:09:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/leads.jpg</image:loc>
+			<image:title><![CDATA[Lead Generation Marketing]]></image:title>
+			<image:caption><![CDATA[Lead Generation Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/comedy-the-art-of-persuasion/</loc>
+		<lastmod>2019-10-16T01:09:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/Comedy1.jpg</image:loc>
+			<image:title><![CDATA[Comedy1]]></image:title>
+			<image:caption><![CDATA[Comedy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/thinking-strategic-thinking/</loc>
+		<lastmod>2019-10-16T01:09:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/11/Thinker-sml.jpg</image:loc>
+			<image:title><![CDATA[Thinker-sml]]></image:title>
+			<image:caption><![CDATA[Thinking]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-parable-imitation-doesnt-work/</loc>
+		<lastmod>2019-10-16T01:09:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/Hedgehog.jpg</image:loc>
+			<image:title><![CDATA[Marketing Companies]]></image:title>
+			<image:caption><![CDATA[Marketing Companies]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/active-versus-passive-b2b-marketing/</loc>
+		<lastmod>2019-10-16T01:09:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/03/slothful.jpg</image:loc>
+			<image:title><![CDATA[B2B marketing]]></image:title>
+			<image:caption><![CDATA[B2B marketing: active versus passive marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-great-lead-generation-marketing-ideas/</loc>
+		<lastmod>2019-10-16T01:09:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/03/lead-gen5.jpg</image:loc>
+			<image:title><![CDATA[5 Lead Generation Marketing Ideas]]></image:title>
+			<image:caption><![CDATA[5 Lead Generation Marketing Ideas]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/03/5A.jpg</image:loc>
+			<image:caption><![CDATA[Business partnerships]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/03/5C.jpg</image:loc>
+			<image:caption><![CDATA[testimonials are gold]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/03/5B.jpg</image:loc>
+			<image:caption><![CDATA[Part of an exclusive club]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/whats-wrong-with-the-guren-planet/</loc>
+		<lastmod>2019-10-16T01:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/thepitch.jpg</image:loc>
+			<image:title><![CDATA[thepitch]]></image:title>
+			<image:caption><![CDATA[the pitch]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/giving-marketing-a-bad-name-hertz-neverlost/</loc>
+		<lastmod>2019-10-16T01:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/lost.jpg</image:loc>
+			<image:title><![CDATA[business to business marketing Australia]]></image:title>
+			<image:caption><![CDATA[business to business marketing Australia]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-marketing/</loc>
+		<lastmod>2019-10-16T01:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/marketing.jpg</image:loc>
+			<image:title><![CDATA[marketing]]></image:title>
+			<image:caption><![CDATA[marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/data-is-king/</loc>
+		<lastmod>2019-10-16T01:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/big-data.jpg</image:loc>
+			<image:title><![CDATA[big-data]]></image:title>
+			<image:caption><![CDATA[big data]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/when-advertising-works/</loc>
+		<lastmod>2019-10-16T01:09:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/maxresdefault.jpg</image:loc>
+			<image:title><![CDATA[maxresdefault]]></image:title>
+			<image:caption><![CDATA[max res default]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-strategy/</loc>
+		<lastmod>2019-10-16T01:09:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/02/Chess-Men.jpg</image:loc>
+			<image:title><![CDATA[Chess-Men]]></image:title>
+			<image:caption><![CDATA[chess men]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/does-your-website-need-a-blog/</loc>
+		<lastmod>2019-10-17T01:00:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/blog.png</image:loc>
+			<image:title><![CDATA[blog]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/SEO-Strategy.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/allstate-insurance-project-aware-share/</loc>
+		<lastmod>2019-10-22T00:16:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/Humour.jpg</image:loc>
+			<image:title><![CDATA[Humour]]></image:title>
+			<image:caption><![CDATA[Humour]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/boost-your-manufacturing-marketing-with-these-actionable-tips/</loc>
+		<lastmod>2019-12-06T01:09:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Boost-Your-Manufacturing-Marketing.png</image:loc>
+			<image:title><![CDATA[Boost Your Manufacturing Marketing]]></image:title>
+			<image:caption><![CDATA[Manufacturing Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-your-business-can-boost-the-value-of-existing-customers/</loc>
+		<lastmod>2019-12-06T01:11:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Resized-Blog-Image.png</image:loc>
+			<image:title><![CDATA[Resized-Blog-Image]]></image:title>
+			<image:caption><![CDATA[Boosting value of existing customers]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-challenges-of-insurance-marketing-how-to-overcome-them/</loc>
+		<lastmod>2019-12-06T01:12:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Insurance.png</image:loc>
+			<image:title><![CDATA[Insurance]]></image:title>
+			<image:caption><![CDATA[Insurance]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-secret-to-finding-the-right-keywords-for-your-seo-strategy/</loc>
+		<lastmod>2019-12-06T01:12:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Keywords.jpg</image:loc>
+			<image:title><![CDATA[Keywords]]></image:title>
+			<image:caption><![CDATA[Keywords]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-optimise-your-b2b-local-seo-strategy/</loc>
+		<lastmod>2020-02-20T22:59:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/B2B-Local-SEO.jpg</image:loc>
+			<image:title><![CDATA[B2B-Local-SEO]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Screen-Shot-2019-06-05-at-2.39.37-PM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-generate-referrals-in-financial-services/</loc>
+		<lastmod>2020-02-20T23:00:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/Generate-Referrals-in-Financial.png</image:loc>
+			<image:title><![CDATA[Generate Referrals in Financial]]></image:title>
+			<image:caption><![CDATA[Generating Referrals In Financial Services]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Generate-Referrals.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-ways-to-revitalise-your-b2b-website/</loc>
+		<lastmod>2020-04-23T05:59:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/B2B-Websites-700x350-1.jpg</image:loc>
+			<image:title><![CDATA[B2B Websites 700x350]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-do-b2b-and-b2c-marketing-funnels-differ/</loc>
+		<lastmod>2020-04-29T02:40:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/b2b-vs-b2c-marketing.jpg</image:loc>
+			<image:title><![CDATA[b2b-vs-b2c-marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-4-hurdles-stunting-your-b2b-lead-generation/</loc>
+		<lastmod>2020-05-22T01:59:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/Lead-Generation.jpg</image:loc>
+			<image:title><![CDATA[Lead Generation]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/standing-out-with-b2b-content-marketing/</loc>
+		<lastmod>2020-05-28T05:27:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/Content-Marketing-Blog.jpg</image:loc>
+			<image:title><![CDATA[Content Marketing Blog]]></image:title>
+			<image:caption><![CDATA[B2B Content Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-evolution-of-b2b-marketing-whats-changed/</loc>
+		<lastmod>2020-07-10T04:18:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/B2B-Marketing-Evolution.jpg</image:loc>
+			<image:title><![CDATA[B2B Marketing Evolution]]></image:title>
+			<image:caption><![CDATA[B2B Digital Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-2020-trends/</loc>
+		<lastmod>2020-09-15T06:59:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/HeaderImage.jpg</image:loc>
+			<image:title><![CDATA[HeaderImage]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/should-your-b2b-organisation-be-using-qr-codes/</loc>
+		<lastmod>2021-01-12T22:42:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/01/4223371.png</image:loc>
+			<image:title><![CDATA[4223371]]></image:title>
+			<image:caption><![CDATA[B2B Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/online-lead-generation-strategies-that-work/</loc>
+		<lastmod>2021-09-10T03:36:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/01/Lead-Gen-Strategies.jpg</image:loc>
+			<image:title><![CDATA[Lead-Gen-Strategies]]></image:title>
+			<image:caption><![CDATA[Lead Generation Strategies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/seo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/should-your-business-be-using-b2b-remarketing/</loc>
+		<lastmod>2021-09-10T03:40:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/remarketing-copy-e1589507020754.jpg</image:loc>
+			<image:title><![CDATA[remarketing copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-reasons-why-your-b2b-leads-arent-converting/</loc>
+		<lastmod>2021-09-10T03:49:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/leads-convert.jpg</image:loc>
+			<image:title><![CDATA[leads convert]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-ways-to-increase-customer-loyalty-for-b2b/</loc>
+		<lastmod>2021-09-10T03:52:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/X-Ways-to-Increase-Customer-loyalty-for-B2B.png</image:loc>
+			<image:title><![CDATA[X-Ways-to-Increase-Customer-loyalty-for-B2B]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/making-an-impact-with-b2b-linkedin-marketing/</loc>
+		<lastmod>2021-09-10T03:54:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/LinkedIn-Image-700x350-1.jpg</image:loc>
+			<image:title><![CDATA[LinkedIn Image 700x350]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-2021-trends/</loc>
+		<lastmod>2021-09-10T03:59:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/B2B-Marketing-2021.jpg</image:loc>
+			<image:title><![CDATA[B2B Marketing 2021]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/a.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/b.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/c.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/d.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/e.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/crafting-b2b-newsletters-that-drive-engagement/</loc>
+		<lastmod>2021-09-10T04:45:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/email-marketing-copy-e1588663684480.jpg</image:loc>
+			<image:title><![CDATA[email marketing copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-collateral-ideas-to-keep-you-busy/</loc>
+		<lastmod>2021-09-10T04:51:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/marketing-collateral-e1587083368379.png</image:loc>
+			<image:title><![CDATA[marketing collateral]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-steps-to-an-effective-guest-blogging-strategy/</loc>
+		<lastmod>2021-09-10T05:04:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/3-Steps-to-an-Effective-Guest-Blogging-Strategy.png</image:loc>
+			<image:title><![CDATA[3-Steps-to-an-Effective-Guest-Blogging-Strategy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-ways-to-increase-your-organic-ctrs/</loc>
+		<lastmod>2021-09-10T05:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/X-Ways-to-Increase-Your-Organic-CTRs.png</image:loc>
+			<image:title><![CDATA[X-Ways-to-Increase-Your-Organic-CTRs]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/optimise-your-website-for-mobile-devices/</loc>
+		<lastmod>2021-09-10T05:18:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Mobile-marketing.jpg</image:loc>
+			<image:title><![CDATA[Mobile-marketing]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Site-Loading-Time.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-seo-strategies-you-may-be-overlooking/</loc>
+		<lastmod>2021-09-10T05:22:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/SEO-Strategies.png</image:loc>
+			<image:title><![CDATA[SEO-Strategies]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/nailing-your-b2b-marketing-blog-our-top-tips/</loc>
+		<lastmod>2021-09-10T05:23:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/blog1-scaled-e1590647123462.jpg</image:loc>
+			<image:title><![CDATA[blog1]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/using-seasonality-in-b2b-marketing/</loc>
+		<lastmod>2021-09-10T05:26:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/Using-Seasonality-in-B2B-Marketing.png</image:loc>
+			<image:title><![CDATA[Using-Seasonality-in-B2B-Marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-power-of-guest-blogging-for-seo/</loc>
+		<lastmod>2021-09-10T05:27:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/The-Power-of-Guest-Blogging-for-SEO.png</image:loc>
+			<image:title><![CDATA[The-Power-of-Guest-Blogging-for-SEO]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/inbound-vs-outbound-b2b-marketing-strategies/</loc>
+		<lastmod>2021-09-10T05:40:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/Inbound-vs-outbound-marketing.jpg</image:loc>
+			<image:title><![CDATA[Inbound vs outbound marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-marketing-strategies-to-help-your-b2b-technology-business-make-a-lasting-impact/</loc>
+		<lastmod>2021-09-10T05:49:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/09/Marketing-Technology-Stack-copy.jpg</image:loc>
+			<image:title><![CDATA[Marketing-Technology-Stack copy]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Interactive-Tools.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-actionable-tips-to-boost-your-higher-education-marketing/</loc>
+		<lastmod>2021-09-10T05:56:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/Education-Tips.png</image:loc>
+			<image:title><![CDATA[Tips to Boost Your Higher Education Marketing]]></image:title>
+			<image:caption><![CDATA[Tips to Boost Your Higher Education Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Use-Video-Ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/are-you-overlooking-technical-elements-in-your-seo-strategy/</loc>
+		<lastmod>2021-09-10T06:10:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Technical-SEO.jpg</image:loc>
+			<image:title><![CDATA[Technical-SEO]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/speed-up-your-site.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/boost-your-b2b-marketing-through-lead-nurturing/</loc>
+		<lastmod>2021-09-10T06:13:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/B2B-Lead-Nurturing.jpg</image:loc>
+			<image:title><![CDATA[B2B-Lead-Nurturing]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Lead-Nurturing.png</image:loc>
+			<image:caption><![CDATA[Lead Nurturing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-ensure-your-b2b-social-media-marketing-isnt-boring/</loc>
+		<lastmod>2021-09-10T06:56:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/B2B-Social-Media-Marketing.jpg</image:loc>
+			<image:title><![CDATA[B2B-Social-Media-Marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/is-longer-content-still-critical-for-seo/</loc>
+		<lastmod>2021-09-10T06:57:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/Is-Longer-Content-Still-Critical-for-SEO-.png</image:loc>
+			<image:title><![CDATA[Is-Longer-Content-Still-Critical-for-SEO--]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/financial-services-marketing-trends-how-to-prepare-for-them/</loc>
+		<lastmod>2021-09-10T07:00:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/09/financial.jpg</image:loc>
+			<image:title><![CDATA[financial]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Leveraging-Data.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-tools-a-b2b-marketer-cant-function-without-2/</loc>
+		<lastmod>2021-09-12T23:43:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Tools-Header.jpg</image:loc>
+			<image:title><![CDATA[Tools-Header]]></image:title>
+			<image:caption><![CDATA[Tools A B2B Marketer Can't Function Without]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/5-Tools-a-B2B-Marketer-Cant-do-Without-Infographoc.jpg</image:loc>
+			<image:caption><![CDATA[5-Tools-a-B2B-Marketer-Can't-do-Without-Infographoc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-create-buyer-personas-to-boost-your-b2b-marketing/</loc>
+		<lastmod>2021-09-13T06:49:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/12/How-to-Create-Buyer-Personas-to-Boost-Your-B2B-Marketing.png</image:loc>
+			<image:title><![CDATA[How-to-Create-Buyer-Personas-to-Boost-Your-B2B-Marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conducting-a-b2b-competitor-analysis-heres-what-to-look-out-for/</loc>
+		<lastmod>2021-09-13T06:49:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/digital-marketing-copy-e1589853330957.jpg</image:loc>
+			<image:title><![CDATA[digital marketing copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/knowing-which-social-media-platform-is-right-for-your-b2b-business/</loc>
+		<lastmod>2021-09-13T06:49:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/Top-9-Benefits-of-Social-Media-for-Your-Business.jpg</image:loc>
+			<image:title><![CDATA[Social-Media-for-Your-Business]]></image:title>
+			<image:caption><![CDATA[B2B Social Media Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/optimise-your-b2b-paid-advertising-facebook-campaign/</loc>
+		<lastmod>2021-09-13T06:53:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/How-to-Optimise-Your-Paid-Advertising-Facebook-Campaign.jpg</image:loc>
+			<image:title><![CDATA[How-to-Optimise-Your-Paid-Advertising-Facebook-Campaign]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-ways-to-optimise-your-seo-strategy-post-pandemic/</loc>
+		<lastmod>2021-09-13T06:55:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/X-Ways-to-Optimise-Your-SEO-Strategy-Post-Pandemic.png</image:loc>
+			<image:title><![CDATA[X-Ways-to-Optimise-Your-SEO-Strategy-Post-Pandemic]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-challenges-of-b2b-marketing-in-uncertain-times-and-how-to-overcome-them/</loc>
+		<lastmod>2021-09-13T06:56:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/The-Challenges-of-B2B-Marketing-in-Uncertain-Times.jpg</image:loc>
+			<image:title><![CDATA[The-Challenges-of-B2B-Marketing-in-Uncertain-Times]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-practical-ways-to-build-an-exceptional-inbound-marketing-strategy/</loc>
+		<lastmod>2021-09-13T06:57:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/inbound.jpg</image:loc>
+			<image:title><![CDATA[Web]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Actionable-Inbound-Marketing-Strategies.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-choose-the-right-marketing-strategy-for-your-saas-business/</loc>
+		<lastmod>2021-09-13T06:57:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/saas_advantage.png</image:loc>
+			<image:title><![CDATA[saas]]></image:title>
+			<image:caption><![CDATA[saas]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-ways-to-maintain-and-grow-your-email-marketing-list/</loc>
+		<lastmod>2021-09-13T06:58:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/Email-Marketing.png</image:loc>
+			<image:title><![CDATA[Email Marketing]]></image:title>
+			<image:caption><![CDATA[B2B Marketing | Email Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/revising-your-b2b-marketing-strategy-post-pandemic/</loc>
+		<lastmod>2021-09-13T06:59:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/B2B-Marketing-in-Pandemic-Times-Heres-What-to-Do-NOW-Research-1280x720-1.jpg</image:loc>
+			<image:title><![CDATA[B2B-Marketing-in-Pandemic-Times-Here’s-What-to-Do-NOW-Research--1280x720]]></image:title>
+			<image:caption><![CDATA[B2B Marketing Post Pandemic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-stand-out-in-a-cluttered-market-with-it-marketing/</loc>
+		<lastmod>2021-09-13T07:00:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/IT-Marketing.jpg</image:loc>
+			<image:title><![CDATA[IT-Marketing]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Effective-IT-Marketing-Strategies.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-internal-linking-is-a-vital-part-of-any-seo-strategy/</loc>
+		<lastmod>2021-09-13T07:02:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Blogs_Images-3.png</image:loc>
+			<image:title><![CDATA[Blogs_Images-3]]></image:title>
+			<image:caption><![CDATA[Internal linking in SEO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Blogs_Images-5.png</image:loc>
+			<image:caption><![CDATA[Internal Linking]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Blogs_Images-4.png</image:loc>
+			<image:caption><![CDATA[Internal Linking and SEO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Blogs_Images-2.png</image:loc>
+			<image:caption><![CDATA[Internal Links relationships]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Anchor_Text_IL_3.jpg</image:loc>
+			<image:caption><![CDATA[Anchor Texts]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Blogs_Images-1.png</image:loc>
+			<image:caption><![CDATA[Silo Model]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-google-ads-can-boost-your-seo-results-really/</loc>
+		<lastmod>2021-09-13T07:02:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/How-Google-Ads-Can-Boost-Your-SEO-Results-1.png</image:loc>
+			<image:title><![CDATA[How-Google-Ads-Can-Boost-Your-SEO-Results]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-things-know-marketing-automation/</loc>
+		<lastmod>2021-09-13T07:03:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/7-Things-You-Should-Know-About-Marketing-Automation.jpg</image:loc>
+			<image:title><![CDATA[7-Things-You-Should-Know-About-Marketing-Automation]]></image:title>
+			<image:caption><![CDATA[Marketing Automation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/expensivecost.png</image:loc>
+			<image:caption><![CDATA[Bear in Mind]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/steps-to-linkedin-marketing-success-for-b2b-businesses/</loc>
+		<lastmod>2021-09-13T07:04:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/B2B-LinkedIn-Marketing.jpg</image:loc>
+			<image:title><![CDATA[B2B-LinkedIn-Marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/email-marketing-tactics-to-take-your-business-into-2021/</loc>
+		<lastmod>2021-09-13T07:05:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/Email-Marketing-Tactics-to-Take-Your-Business-Into-2021.png</image:loc>
+			<image:title><![CDATA[Email-Marketing-Tactics-to-Take-Your-Business-Into-2021]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-lead-nurturing-stages-crucial-to-your-marketing-success/</loc>
+		<lastmod>2021-09-13T07:05:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/blog-pic.jpg</image:loc>
+			<image:title><![CDATA[blog pic]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/nurturing_leads.png</image:loc>
+			<image:caption><![CDATA[nurturing leads]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-email-automation-and-why-should-you-use-it/</loc>
+		<lastmod>2021-09-13T07:08:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Marketing-Automation-Beyond-Email.jpg</image:loc>
+			<image:title><![CDATA[Marketing-Automation-Beyond-Email]]></image:title>
+			<image:caption><![CDATA[B2B Email Automation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-your-google-ads-arent-meeting-performance-goals/</loc>
+		<lastmod>2021-09-13T07:08:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/google-ads.png</image:loc>
+			<image:title><![CDATA[google-ads]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Screen-Shot-2019-07-12-at-11.36.56-am.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Screen-Shot-2019-07-12-at-11.37.37-am.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Screen-Shot-2019-07-12-at-11.38.49-am.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Screen-Shot-2019-07-12-at-11.38.11-am.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/Screen-Shot-2019-07-12-at-11.39.13-am.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-core-differences-between-b2b-and-b2c-marketing/</loc>
+		<lastmod>2021-09-13T07:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/image-copy.jpg</image:loc>
+			<image:title><![CDATA[image copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-your-b2b-social-media-marketing-campaign-isnt-working/</loc>
+		<lastmod>2021-09-13T07:09:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/social-media-marketing-e1588214313115.png</image:loc>
+			<image:title><![CDATA[social-media-marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/are-you-making-these-common-content-marketing-mistakes/</loc>
+		<lastmod>2021-09-13T07:09:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/content.jpg</image:loc>
+			<image:title><![CDATA[content]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/web-promotion.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-apply-google-analytics-to-increase-your-website-leads/</loc>
+		<lastmod>2021-09-13T07:11:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Header.png</image:loc>
+			<image:title><![CDATA[Header]]></image:title>
+			<image:caption><![CDATA[Header - Google Analytics]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Bounce-Rate.png</image:loc>
+			<image:caption><![CDATA[Bounce Rate]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Channels.png</image:loc>
+			<image:caption><![CDATA[Traffic Sources]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Avg-Session.png</image:loc>
+			<image:caption><![CDATA[Average Session Duration]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/New-_-Returning.png</image:loc>
+			<image:caption><![CDATA[New vs Returning ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Exit-Pages.png</image:loc>
+			<image:caption><![CDATA[Exit Pages]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Conversions.png</image:loc>
+			<image:caption><![CDATA[Cost Per Conversion]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/is-your-business-making-these-5-linkedin-marketing-mistakes/</loc>
+		<lastmod>2021-09-13T07:12:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/LinkedIn_Marketing-FINAL.jpg</image:loc>
+			<image:title><![CDATA[LinkedIn_Marketing FINAL]]></image:title>
+			<image:caption><![CDATA[B2B LinkedIn Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-actionable-strategies-for-marketing-to-the-technology-sector/</loc>
+		<lastmod>2021-09-13T07:12:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/tech.jpg</image:loc>
+			<image:title><![CDATA[tech]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/are-you-making-these-insurance-marketing-mistakes/</loc>
+		<lastmod>2021-09-13T07:13:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/mistakes.jpg</image:loc>
+			<image:title><![CDATA[mistakes]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/improve-your-it-marketing-strategy-with-these-3-tactics/</loc>
+		<lastmod>2021-09-13T07:14:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/09/IT-marketing-copy.jpg</image:loc>
+			<image:title><![CDATA[IT marketing copy]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Market-Research.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-extract-better-data-from-your-b2b-website/</loc>
+		<lastmod>2021-09-13T07:14:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/How-to-Extract-Better-Data-from-Your-B2B-Website.jpg</image:loc>
+			<image:title><![CDATA[How-to-Extract-Better-Data-from-Your-B2B-Website]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-build-your-client-base-through-effective-law-firm-marketing/</loc>
+		<lastmod>2021-09-13T07:16:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/1images.png</image:loc>
+			<image:title><![CDATA[1images]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-automation-b2b-marketing-future/</loc>
+		<lastmod>2021-09-13T07:16:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/marketing-automation.jpg</image:loc>
+			<image:title><![CDATA[b2b marketing automation]]></image:title>
+			<image:caption><![CDATA[b2b marketing automation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/google-analytics-.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-ways-remarketing-can-deliver-value-to-your-b2b-business/</loc>
+		<lastmod>2021-09-13T07:16:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/Remarketing.jpg</image:loc>
+			<image:title><![CDATA[Remarketing]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Drive-More-Conversions.jpg</image:loc>
+			<image:caption><![CDATA[Lead Conversions]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-will-the-general-data-protection-regulation-gdpr-affect-martech-companies-in-2018/</loc>
+		<lastmod>2021-09-13T07:17:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/GDPR_image.png</image:loc>
+			<image:title><![CDATA[GDPR]]></image:title>
+			<image:caption><![CDATA[GDPR]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-generation-marketing-another-five-lead-generation-examples/</loc>
+		<lastmod>2021-09-13T07:18:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/06/nurture2.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/nailing-your-business-next-online-event/</loc>
+		<lastmod>2021-09-13T07:18:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/online-events-e1595391419463.jpg</image:loc>
+			<image:title><![CDATA[online-events]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-ways-to-optimise-marketing-in-the-financial-industry/</loc>
+		<lastmod>2021-09-13T07:19:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Financial.jpg</image:loc>
+			<image:title><![CDATA[Financial]]></image:title>
+			<image:caption><![CDATA[Optimise marketing in financial industry]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seo-cro-do-conversions-rankings-go-hand-in-hand/</loc>
+		<lastmod>2021-09-13T07:19:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/Puzzle-piece.png</image:loc>
+			<image:title><![CDATA[Puzzle-piece]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-nurture-leads-with-b2b-marketing-automation/</loc>
+		<lastmod>2021-09-13T07:20:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/How-to-Nurture-Leads-with-B2B-Marketing-Automation.png</image:loc>
+			<image:title><![CDATA[How-to-Nurture-Leads-with-B2B-Marketing-Automation]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/five-tips-great-lead-generation-campaign-websites/</loc>
+		<lastmod>2021-09-13T07:22:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/web.jpg</image:loc>
+			<image:title><![CDATA[Lead Generation Campaign]]></image:title>
+			<image:caption><![CDATA[Lead Generation Campaign]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-generation-campaigns-five-lead-nurturing-tips/</loc>
+		<lastmod>2021-09-13T07:22:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/nurture1.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-nail-your-b2b-business-facebook-marketing-campaign/</loc>
+		<lastmod>2021-09-13T07:23:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/Facebook-Marketing.jpg</image:loc>
+			<image:title><![CDATA[Facebook Marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/website-design-tips-to-generate-leads-for-law-firms/</loc>
+		<lastmod>2021-09-13T07:23:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/Law-Marketing.png</image:loc>
+			<image:title><![CDATA[Law Marketing]]></image:title>
+			<image:caption><![CDATA[Website Design Tips For Law Firms]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/testimonials.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-5-most-effective-strategies-for-b2b-industrial-marketing/</loc>
+		<lastmod>2021-09-13T07:24:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/Industrial-B2B.png</image:loc>
+			<image:title><![CDATA[Industrial B2B]]></image:title>
+			<image:caption><![CDATA[Strategies for B2B Industrial Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Add-Video-Into-Your-Strategy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/four-truths-for-website-lead-generation-campaigns/</loc>
+		<lastmod>2021-09-13T07:25:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/03/web-leads.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/now-is-the-time-make-business-marketing-goals-for-the-year-ahead/</loc>
+		<lastmod>2021-09-13T07:25:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/Make-Business-and-Marketing-Goals-for-the-Year-Ahead.png</image:loc>
+			<image:title><![CDATA[Make-Business-and-Marketing-Goals-for-the-Year-Ahead]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-content-is-the-most-important-part-of-b2b-digital-marketing-campaigns/</loc>
+		<lastmod>2021-09-13T07:26:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Content-Marketing.png</image:loc>
+			<image:title><![CDATA[Content-Marketing]]></image:title>
+			<image:caption><![CDATA[Why Content is the Most Important Part of B2B Digital Marketing Campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bridging-the-gap-between-b2b-marketing-and-sales/</loc>
+		<lastmod>2021-09-13T07:27:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/Marketing-and-sales.jpg</image:loc>
+			<image:title><![CDATA[Marketing-and-sales]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-build-an-it-marketing-strategy-that-works/</loc>
+		<lastmod>2021-09-13T07:30:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/IT-marketing-700x250-1.jpg</image:loc>
+			<image:title><![CDATA[IT-marketing 700x250]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-social-selling-and-how-can-you-incorporate-it-into-your-b2b-marketing-strategy/</loc>
+		<lastmod>2021-09-13T07:31:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/Social-Selling.jpg</image:loc>
+			<image:title><![CDATA[Social Selling]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/leveraging-data-and-creativity-to-achieve-outstanding-b2b-digital-marketing-outcomes/</loc>
+		<lastmod>2021-09-13T07:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/08/cropped-creativity-and-data.jpg</image:loc>
+			<image:title><![CDATA[cropped creativity and data]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Tools-Online.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/developing-a-strong-b2b-marketing-plan-in-a-volatile-environment/</loc>
+		<lastmod>2021-09-13T07:32:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/B2B-Marketing_Volatile.jpg</image:loc>
+			<image:title><![CDATA[B2B Marketing_Volatile]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/leveraging-client-relationships-building-a-strong-referral-program/</loc>
+		<lastmod>2021-09-13T07:32:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/referral_marketing.png</image:loc>
+			<image:title><![CDATA[referral_marketing]]></image:title>
+			<image:caption><![CDATA[Referral Marketing Melbourne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/personalisation-or-privacy-striking-the-right-balance/</loc>
+		<lastmod>2021-09-13T07:32:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/Personalisation-or-Privacy.png</image:loc>
+			<image:title><![CDATA[Personalisation-or-Privacy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-rise-of-emojis-in-email-marketing-can-b2b-marketers-benefit/</loc>
+		<lastmod>2021-09-13T07:34:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/emojisinemailmarketingrRESIZEDFORBLOG.jpg</image:loc>
+			<image:title><![CDATA[emojisinemailmarketingrRESIZEDFORBLOG]]></image:title>
+			<image:caption><![CDATA[Emoji Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/emoji.jpg</image:loc>
+			<image:caption><![CDATA[Emoji List]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/Smile_Emojis.png</image:loc>
+			<image:caption><![CDATA[Smiley Emoji]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/emojikeyboard.jpg</image:loc>
+			<image:caption><![CDATA[iPhone Emoji Keyboard]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/partypopper.jpg</image:loc>
+			<image:caption><![CDATA[Party Popper Emoji]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/06/top_emojis_chart.png</image:loc>
+			<image:caption><![CDATA[Top 15 Emojis By Subject Line Appearance]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/build-referral-lead-generation-campaign/</loc>
+		<lastmod>2021-09-13T07:35:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/refer5.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaign]]></image:title>
+			<image:caption><![CDATA[lead generation campaign]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mother-energy-hunting-down-those-responsible-for-the-old-mother/</loc>
+		<lastmod>2021-09-13T07:36:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/Comedy-1.png</image:loc>
+			<image:title><![CDATA[Comedy-1]]></image:title>
+			<image:caption><![CDATA[Comedy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-importance-of-socially-conscious-b2b-marketing/</loc>
+		<lastmod>2021-09-13T07:36:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/socially-conscious-e1586822017837.png</image:loc>
+			<image:title><![CDATA[socially conscious]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/referrals-work-lead-generation-marketing/</loc>
+		<lastmod>2021-09-13T07:36:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/refer6.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-ways-to-make-your-b2b-business-online-presence-known/</loc>
+		<lastmod>2021-09-13T07:38:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/Ways-to-Make-Your-B2B-Business%E2%80%99-Online-Presence-Known.png</image:loc>
+			<image:title><![CDATA[Ways-to-Make-Your-B2B-Business’-Online-Presence-Known]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-optimise-your-paid-advertising-facebook-campaign/</loc>
+		<lastmod>2021-09-13T07:39:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Facebook-Advertising.png</image:loc>
+			<image:title><![CDATA[Facebook-Advertising]]></image:title>
+			<image:caption><![CDATA[How to Optimise Your Facebook Advertising Campaign]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-create-impactful-b2b-email-marketing-campaigns/</loc>
+		<lastmod>2021-09-13T07:39:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/email-marketing.jpg</image:loc>
+			<image:title><![CDATA[email-marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tactics-to-boost-your-industrial-marketing-strategy/</loc>
+		<lastmod>2021-09-13T07:40:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Industrial.jpg</image:loc>
+			<image:title><![CDATA[Industrial]]></image:title>
+			<image:caption><![CDATA[Boost industrial marketing strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/top-tips-for-executing-a-successful-b2b-telemarketing-campaign/</loc>
+		<lastmod>2021-09-13T07:40:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/Make_It_Happen_Telemarketing_600x200-v2.png</image:loc>
+			<image:title><![CDATA[Make_It_Happen_Telemarketing_600x200-v2]]></image:title>
+			<image:caption><![CDATA[B2B telemarketers]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/creating-buyer-personas-for-better-b2b-marketing/</loc>
+		<lastmod>2021-09-13T07:41:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/Screen-Shot-2018-05-30-at-3.48.49-pm.png</image:loc>
+			<image:title><![CDATA[Buyer Persona]]></image:title>
+			<image:caption><![CDATA[Buyer Persona]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/Creating-a-Buyer-Persona.jpg</image:loc>
+			<image:caption><![CDATA[Creating Buyer Persona]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-essential-components-of-your-higher-education-marketing-strategy/</loc>
+		<lastmod>2021-09-13T07:41:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/edit-higher-education.jpg</image:loc>
+			<image:title><![CDATA[edit higher education]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/optimising-your-b2b-email-marketing-click-through-and-open-rates/</loc>
+		<lastmod>2021-09-13T07:42:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/email.png</image:loc>
+			<image:title><![CDATA[B2B Email Marketing]]></image:title>
+			<image:caption><![CDATA[B2B Email Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/DELIVERY-TIMES.jpg</image:loc>
+			<image:caption><![CDATA[Open Rates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/socials.jpg</image:loc>
+			<image:caption><![CDATA[Social Sharing Buttons]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lead-generation-campaigns-he-benefits-of-lead-nurturing/</loc>
+		<lastmod>2021-09-13T07:43:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/05/relay.jpg</image:loc>
+			<image:title><![CDATA[lead generation campaigns]]></image:title>
+			<image:caption><![CDATA[lead generation campaigns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/more-free-time-on-your-hands-use-it-to-position-your-business-for-success/</loc>
+		<lastmod>2021-09-13T07:43:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/03/Position-Your-Business-For-Success-.jpg</image:loc>
+			<image:title><![CDATA[Position-Your-Business-For-Success-]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/should-your-b2b-business-be-using-video-content/</loc>
+		<lastmod>2021-09-13T07:44:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/SG-Just-the-Stats_The-Science-of-Marketing-Video-Engagement.jpg</image:loc>
+			<image:title><![CDATA[SG-Just-the-Stats_The-Science-of-Marketing-Video-Engagement]]></image:title>
+			<image:caption><![CDATA[B2B video marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/using-competitors-knowledge-build-business/</loc>
+		<lastmod>2021-09-13T07:44:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2016/04/Using-Competitor-Knowledge.jpg</image:loc>
+			<image:title><![CDATA[Using-Competitor-Knowledge]]></image:title>
+			<image:caption><![CDATA[Using Competitor Knowledge]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/findingyouraccount.jpg</image:loc>
+			<image:caption><![CDATA[Know your space]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-identify-and-remove-bottlenecks-in-your-marketing-funnel/</loc>
+		<lastmod>2021-09-13T07:44:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/sales-funnel-copy-copy.jpg</image:loc>
+			<image:title><![CDATA[sales funnel copy copy]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/funnel-e1563325833821.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/leads.jpg</image:loc>
+			<image:caption><![CDATA[lead generation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marketing-mix-best-practice-effective-examples-of-the-seven-ps/</loc>
+		<lastmod>2021-09-13T07:46:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/the7ps.png</image:loc>
+			<image:title><![CDATA[Seven Ps Marketing Mix]]></image:title>
+			<image:caption><![CDATA[Seven Ps Marketing Mix]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Product.png</image:loc>
+			<image:caption><![CDATA[Product]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Price.png</image:loc>
+			<image:caption><![CDATA[Price]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Place.png</image:loc>
+			<image:caption><![CDATA[Place]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Promotion.png</image:loc>
+			<image:caption><![CDATA[Promotion]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/People.png</image:loc>
+			<image:caption><![CDATA[People]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Process.png</image:loc>
+			<image:caption><![CDATA[Process]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/Physical-Evidence.png</image:loc>
+			<image:caption><![CDATA[Physical Evidence]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/account-based-marketing-revolutionising-b2b/</loc>
+		<lastmod>2021-09-13T07:48:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Header-Image.png</image:loc>
+			<image:title><![CDATA[Header-Image]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Why-Now-Is-The-Time-To-Take-On-ABM-1.jpg</image:loc>
+			<image:caption><![CDATA[Account Based Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-attribution-how-single-source-attribution-is-hurting-your-business/</loc>
+		<lastmod>2021-09-13T07:49:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-The-Lead-Agency-Image-001.png</image:loc>
+			<image:title><![CDATA[B2B Marketing Attribution - The Lead Agency - Image 001]]></image:title>
+			<image:caption><![CDATA[B2B Marketing Attribution - The Lead Agency - Image 001]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-01.png</image:loc>
+			<image:caption><![CDATA[Customer Journey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-05.png</image:loc>
+			<image:caption><![CDATA[Linear]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-02.png</image:loc>
+			<image:caption><![CDATA[Descending]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-04.png</image:loc>
+			<image:caption><![CDATA[U-Shaped]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-03.png</image:loc>
+			<image:caption><![CDATA[W-Shaped]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/10/B2B-Marketing-Attribution-%E2%80%93-How-Single-Source-Attribution-Is-Hurting-Your-Business-06.png</image:loc>
+			<image:caption><![CDATA[Full-Path]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/five-lead-generation-marketing-tips-referrals/</loc>
+		<lastmod>2021-09-13T07:50:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2014/07/refer4.jpg</image:loc>
+			<image:title><![CDATA[lead generation marketing]]></image:title>
+			<image:caption><![CDATA[lead generation marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-page-tests-to-boost-your-conversion-rates/</loc>
+		<lastmod>2021-09-13T07:51:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/03/Rocket.png</image:loc>
+			<image:title><![CDATA[Rocket]]></image:title>
+			<image:caption><![CDATA[LANDING PAGE TESTS TO BOOST YOUR CONVERSION RATES]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-fundamental-components-of-your-insurance-marketing-strategy/</loc>
+		<lastmod>2021-09-13T07:51:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/images-1.png</image:loc>
+			<image:title><![CDATA[images (1)]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-shift-to-digital-enhancing-the-online-customer-experience/</loc>
+		<lastmod>2021-09-13T07:53:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/marketing.png</image:loc>
+			<image:title><![CDATA[marketing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/does-your-industrial-marketing-strategy-incorporate-these-3-tactics/</loc>
+		<lastmod>2021-09-13T07:54:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/09/blog-copy.jpg</image:loc>
+			<image:title><![CDATA[blog copy]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Lead-Generation-Management.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mistakes-to-avoid-when-writing-a-b2b-value-proposition/</loc>
+		<lastmod>2021-09-13T07:55:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Value-Proposition.png</image:loc>
+			<image:title><![CDATA[Value Proposition]]></image:title>
+			<image:caption><![CDATA[Value Proposition]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/top-b2b-content-marketing-strategies-for-2019-and-beyond/</loc>
+		<lastmod>2021-09-13T07:56:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/TOP-B2B-CONTENT-MARKETING.jpg</image:loc>
+			<image:title><![CDATA[TOP B2B CONTENT MARKETING]]></image:title>
+			<image:caption><![CDATA[Top b2b content marketing strategies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/knowing-when-and-how-to-rebrand-your-b2b-business/</loc>
+		<lastmod>2021-09-13T07:56:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/02/rebranding-copy-e1582521238873.png</image:loc>
+			<image:title><![CDATA[rebranding copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-types-of-b2b-email-marketing-campaigns-and-when-to-use-them/</loc>
+		<lastmod>2021-09-13T07:56:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/march-blog.jpg</image:loc>
+			<image:title><![CDATA[march-blog]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-social-b2b-industry/</loc>
+		<lastmod>2021-09-13T07:56:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/social-RESIZED.jpg</image:loc>
+			<image:title><![CDATA[social-RESIZED]]></image:title>
+			<image:caption><![CDATA[Social Media]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-improve-the-deliverability-of-your-b2b-email-marketing-campaigns/</loc>
+		<lastmod>2021-09-13T07:57:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/02/email-copy.png</image:loc>
+			<image:title><![CDATA[email copy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-dos-and-donts-of-optimising-your-google-ads/</loc>
+		<lastmod>2021-09-13T07:57:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/04/Google-Ads-Optimisation.png</image:loc>
+			<image:title><![CDATA[Google-Ads-Optimisation]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/finding-your-social-media-niche-a-guide-for-b2b-small-businesses/</loc>
+		<lastmod>2021-09-13T07:58:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/B2Bmarketingconsultant.jpg</image:loc>
+			<image:title><![CDATA[B2Bmarketingconsultant]]></image:title>
+			<image:caption><![CDATA[B2B marketing consultant]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/B2Badvertisingagency.png</image:loc>
+			<image:caption><![CDATA[http://maxpixel.freegreatpicture.com/photo-1414775]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Untappd.jpg</image:loc>
+			<image:caption><![CDATA[Untappd - niche social media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Activerain.jpg</image:loc>
+			<image:caption><![CDATA[ActiveRain - niche social media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Ravelry.png</image:loc>
+			<image:caption><![CDATA[Ravelry - niche social media]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/hrcom.png</image:loc>
+			<image:caption><![CDATA[Hr.com - niche social media]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/want-to-market-to-the-education-sector-heres-how/</loc>
+		<lastmod>2021-09-13T08:00:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Education.jpg</image:loc>
+			<image:title><![CDATA[Education]]></image:title>
+			<image:caption><![CDATA[Education]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-digital-marketing-tools-your-business-should-be-using/</loc>
+		<lastmod>2021-09-13T08:00:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/05/Digital-Marketing-Tools.jpg</image:loc>
+			<image:title><![CDATA[Digital-Marketing-Tools]]></image:title>
+			<image:caption><![CDATA[Digital Marketing Tools]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-your-company-should-be-using-b2b-marketing-automation/</loc>
+		<lastmod>2021-09-13T08:01:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/B2B-Marketing-Automation-.jpg</image:loc>
+			<image:title><![CDATA[B2B-Marketing-Automation-]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/marketing-automation-strategy.png</image:loc>
+			<image:caption><![CDATA[marketing automation strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sales-and-marketing-alignment-comprehensive-guide-to/</loc>
+		<lastmod>2021-09-13T08:01:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Feature-Image.png</image:loc>
+			<image:title><![CDATA[Feature-Image]]></image:title>
+			<image:caption><![CDATA[Sales and Marketing Alignment]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/2Gears-RedBlue.png</image:loc>
+			<image:caption><![CDATA[Sales and Marketing Alignment]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/2Speach-Bubbles.png</image:loc>
+			<image:caption><![CDATA[2Speach-Bubbles]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/2Formulas.png</image:loc>
+			<image:caption><![CDATA[Sales and Marketing Target Setting Formula]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/Lead-Scoring-Steps.png</image:loc>
+			<image:caption><![CDATA[Lead-Scoring-Steps]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/2Lead-Score-Template-Content.png</image:loc>
+			<image:caption><![CDATA[Lead Scoring Template]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/2Lead-Score-Template.png</image:loc>
+			<image:caption><![CDATA[Lead Scoring Template]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/sales-funnel.png</image:loc>
+			<image:caption><![CDATA[sales-funnel]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-optimise-your-law-firm-marketing-strategy/</loc>
+		<lastmod>2021-09-13T08:01:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Marketing-Strategy.png</image:loc>
+			<image:title><![CDATA[Marketing Strategy]]></image:title>
+			<image:caption><![CDATA[Optimise law firm marketing strategy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-types-of-digital-marketing-collateral-your-b2b-business-needs/</loc>
+		<lastmod>2021-09-13T08:02:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/4-Types-of-Digital-Marketing-Collateral.jpg</image:loc>
+			<image:title><![CDATA[4-Types-of-Digital-Marketing-Collateral]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/ebooks.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-your-b2b-business-can-use-data-more-effectively/</loc>
+		<lastmod>2021-09-13T08:02:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/05/How-Your-B2B-Business-Can-Use-Data-More-Effectively.png</image:loc>
+			<image:title><![CDATA[How-Your-B2B-Business-Can-Use-Data-More-Effectively]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-build-an-exceptional-law-firm-marketing-website/</loc>
+		<lastmod>2021-09-13T08:03:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Website-Redesign-More-Than-Just-Aesthetics@2x-100-copy.jpg</image:loc>
+			<image:title><![CDATA[Website-Redesign-More-Than-Just-Aesthetics@2x-100 copy]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Consistency-Website-Wide.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/are-you-harnessing-the-power-of-influencer-marketing/</loc>
+		<lastmod>2021-09-13T08:04:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Influencer.jpg</image:loc>
+			<image:title><![CDATA[Influencer]]></image:title>
+			<image:caption><![CDATA[power of influencer marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/your-guide-to-manufacturing-marketing-that-drives-results/</loc>
+		<lastmod>2021-09-13T08:04:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/11/Marketing-for-mannufacturing@2x.png</image:loc>
+			<image:title><![CDATA[Marketing-for-mannufacturing@2x]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-keys-to-unlocking-your-b2b-social-media-potential/</loc>
+		<lastmod>2021-09-13T08:06:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/B2BadvertisingAgency.jpg</image:loc>
+			<image:title><![CDATA[B2BadvertisingAgency]]></image:title>
+			<image:caption><![CDATA[B2B marketing companies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Socialmedia.jgp_-e1519344534181.jpg</image:loc>
+			<image:caption><![CDATA[social ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/connectcustomers-e1519343968957.jpg</image:loc>
+			<image:caption><![CDATA[The Lead Agency]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/B2BmarketingAgency.jpg</image:loc>
+			<image:caption><![CDATA[B2B social media]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/6-b2b-email-marketing-strategies-to-boost-engagement/</loc>
+		<lastmod>2021-09-13T08:06:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/08/Untitled-1-1-e1533622988286.jpg</image:loc>
+			<image:title><![CDATA[email marketing]]></image:title>
+			<image:caption><![CDATA[email marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/08/understanding-the-power-of-segmentation-for-marketing-campaigns-2-1-1.jpg</image:loc>
+			<image:caption><![CDATA[Audience Segment]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-to-do-when-your-b2b-email-marketing-campaign-isnt-working/</loc>
+		<lastmod>2021-09-13T08:08:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/email.jpg</image:loc>
+			<image:title><![CDATA[email]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/mobile-email.jpg</image:loc>
+			<image:caption><![CDATA[mobile email]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/7-ways-digital-marketing-grows-your-b2b-business/</loc>
+		<lastmod>2021-09-13T08:09:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/B2B.png</image:loc>
+			<image:title><![CDATA[B2B Marketing]]></image:title>
+			<image:caption><![CDATA[B2B Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/socialmediamarketing.jpg</image:loc>
+			<image:caption><![CDATA[B2B Marketing Trends]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/voicesearch.jpg</image:loc>
+			<image:caption><![CDATA[Content Personalisation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-build-organic-traffic-to-your-b2b-website/</loc>
+		<lastmod>2021-09-13T08:09:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/organic-traffic-v2-1.jpg</image:loc>
+			<image:title><![CDATA[organic traffic v2 (1)]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/improving-the-b2b-customer-experience-with-interactive-content/</loc>
+		<lastmod>2021-09-13T08:09:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/09/Improving-the-B2B-Customer-Experience-with-Interactive-Content.png</image:loc>
+			<image:title><![CDATA[Improving-the-B2B-Customer-Experience-with-Interactive-Content]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-strategies-for-keeping-existing-clients-engaged/</loc>
+		<lastmod>2021-09-13T08:10:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/Client-Engagement.png</image:loc>
+			<image:title><![CDATA[Client Engagement]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/should-your-b2b-business-be-giving-customers-free-content/</loc>
+		<lastmod>2021-09-13T08:10:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/12/lead-magnet.png</image:loc>
+			<image:title><![CDATA[lead-magnet]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/black-hat-vs-white-hat-seo-how-to-optimise-your-online-visibility/</loc>
+		<lastmod>2021-09-13T08:11:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/SEO.jpg</image:loc>
+			<image:title><![CDATA[SEO]]></image:title>
+			<image:caption><![CDATA[optimising online visibility]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hacking-buyer-journey-remarketing-b2b-digital-marketers/</loc>
+		<lastmod>2021-09-13T08:13:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Hacking-the-Buyer-Journey.jpg</image:loc>
+			<image:title><![CDATA[Hacking-the-Buyer-Journey]]></image:title>
+			<image:caption><![CDATA[Hacking the Buyer Journey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/remarketing.jpg</image:loc>
+			<image:caption><![CDATA[How Remarketing Works ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/highlytargeted.jpg</image:loc>
+			<image:caption><![CDATA[Segmentation ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/3-key-metrics-for-monitoring-the-performance-of-b2b-google-ads/</loc>
+		<lastmod>2021-09-13T08:13:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/10/How-to-Monitor-the-Performance-of-B2B-Google-Ads.png</image:loc>
+			<image:title><![CDATA[How-to-Monitor-the-Performance-of-B2B-Google-Ads]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/why-getting-your-b2b-branding-right-is-essential/</loc>
+		<lastmod>2021-09-13T08:13:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/07/B2B-Branding.jpg</image:loc>
+			<image:title><![CDATA[B2B-Branding]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/B2B-Branding-2.jpg</image:loc>
+			<image:caption><![CDATA[B2B Branding]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/keeping-the-harmony-the-importance-of-consistent-b2b-branding/</loc>
+		<lastmod>2021-09-13T08:14:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/brand-e1592893581655.jpg</image:loc>
+			<image:title><![CDATA[brand]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/seo-trends-to-give-digital-marketers-an-edge-in-2019/</loc>
+		<lastmod>2021-09-13T08:14:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/SEO-Trends-to-Give-Digital-Marketers-an-Edge-in-2019.jpg</image:loc>
+			<image:title><![CDATA[SEO-Trends-to-Give-Digital-Marketers-an-Edge-in-2019]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Voice-Search.jpg</image:loc>
+			<image:caption><![CDATA[Voice Search]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/5-ways-to-generate-ideas-for-your-next-100-blog-posts/</loc>
+		<lastmod>2021-09-13T08:14:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/07/X-Ways-to-Generate-Ideas-for-Your-Next-100-Blog-Posts.png</image:loc>
+			<image:title><![CDATA[X-Ways-to-Generate-Ideas-for-Your-Next-100-Blog-Posts]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/11-social-hacks-to-improve-your-b2b-networking-skills/</loc>
+		<lastmod>2021-09-13T08:15:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/Screen-Shot-2018-06-07-at-12.31.59-pm.png</image:loc>
+			<image:title><![CDATA[B2B Networking]]></image:title>
+			<image:caption><![CDATA[B2B Networking]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/eye-movements-when-lying.jpg</image:loc>
+			<image:caption><![CDATA[Lie V Truth]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/6-ways-to-optimise-your-b2b-business-campaign-landing-pages/</loc>
+		<lastmod>2021-09-13T08:15:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/06/X-Ways-to-Optimise-Your-Landing-Page.png</image:loc>
+			<image:title><![CDATA[X-Ways-to-Optimise-Your-Landing-Page]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blockchain-revolution-will-transform-digital-marketing-advertising/</loc>
+		<lastmod>2021-09-13T23:21:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Blog-Images-4.jpg</image:loc>
+			<image:title><![CDATA[Blockchain Marketing]]></image:title>
+			<image:caption><![CDATA[Blockchain Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Blog-Images-1.jpg</image:loc>
+			<image:caption><![CDATA[Blockchain Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Blog-Images-2.jpg</image:loc>
+			<image:caption><![CDATA[Blockchain Marketing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/03/Blog-Images-3.jpg</image:loc>
+			<image:caption><![CDATA[Blockchain Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-digital-marketing/</loc>
+		<lastmod>2021-09-13T23:22:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/08/What-is-Digital-Marketing.jpg</image:loc>
+			<image:title><![CDATA[What-is-Digital-Marketing]]></image:title>
+			<image:caption><![CDATA[what is digital marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-content-marketing/</loc>
+		<lastmod>2021-09-13T23:38:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/05/contentmktgRESIZED.jpg</image:loc>
+			<image:title><![CDATA[contentmktgRESIZED]]></image:title>
+			<image:caption><![CDATA[What is Content Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-direct-marketing/</loc>
+		<lastmod>2021-09-13T23:39:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/10/What-Is-Direct-Marketing.jpg</image:loc>
+			<image:title><![CDATA[What-Is-Direct-Marketing]]></image:title>
+			<image:caption><![CDATA[Direct Marketing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/b2b-marketing-2022-trends/</loc>
+		<lastmod>2021-12-07T02:20:13+00:00</lastmod>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
